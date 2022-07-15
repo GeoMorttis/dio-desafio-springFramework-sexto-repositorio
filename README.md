@@ -4,4 +4,4 @@
 
 - Neste reposítorios estão:
   
-  - **Práticas do Aula 2** - Imersão no Spring Framework com Spring Boot
+  - **Práticas do Aula 2** - Imersão no Spring Framework com Spring Boot (em execução)
